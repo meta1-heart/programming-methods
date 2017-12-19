@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Прямая и точка\Прямая и точка\bin\Debug\Прямая и точка.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Прямая и точка\Прямая и точка\bin\Debug\Прямая и точка.exe
+c:\users\admin\documents\visual studio 2015\Projects\Прямая и точка\Прямая и точка\bin\Debug\Прямая и точка.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Прямая и точка\Прямая и точка\obj\Debug\Прямая и точка.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Прямая и точка\Прямая и точка\obj\Debug\Прямая и точка.exe
+c:\users\admin\documents\visual studio 2015\Projects\Прямая и точка\Прямая и точка\obj\Debug\Прямая и точка.pdb
